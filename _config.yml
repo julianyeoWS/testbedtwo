@@ -28,3 +28,5 @@ defaults:
       layout: "post"
       author: "Your name"
       category: "jekyll"
+
+theme: jekyll-theme-cayman
